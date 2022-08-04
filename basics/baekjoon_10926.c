@@ -6,7 +6,7 @@ int main(){
 
     scanf("%s", input);
     strlwr(input);
-    //strcat(input, "??!");
+    strcat(input, "\?\?!");
 
     printf(input);
 
